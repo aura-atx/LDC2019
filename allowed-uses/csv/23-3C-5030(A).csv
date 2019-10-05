@@ -1,0 +1,137 @@
+"Use Type","Specific to Use Requirements",MU1,MU2,MU3,MU4,MU5A,MU5B
+RESIDENTIAL,,,,,,,
+"(1) Residential",,,,,,,
+"Accessory Dwelling Unit - Residential",23-3D-1030,P,P,—,—,—,—
+"Accessory Dwelling Unit - Non-Residential",23-3D-1040,P,P,P,P,P,P
+"Bed and Breakfast",23-3D-1100,P,P,P,P,P,P
+Co-housing,,P,P,—,—,—,—
+"Cottage Court",23-3D-1160,P,P,—,—,—,—
+Duplex,23-3D-1180,P,P,—,—,—,—
+"Group Residential",,P,P,P,P,P,P
+"Home Occupations",23-3D-1210,P,P,P,P,P,P
+Live/Work,23-3D-1220,P,P,P,P,P,P
+Multi-Family,,P,P,P,P,P,P
+"Senior/Retirement Housing",,P,P,P,P,P,P
+"Single-Family Attached",,P,P,—,—,—,—
+"Short-term Rental",,,,,,,
+"Types 1",23-3D-1350,P,P,P,P,—,—
+"Types 2",23-3D-1350,—,P1,—,—,—,—
+"Types 3",23-3D-1350,P,P,MUP,MUP,—,—
+Townhouse,23-3D-1390,P,P,P,P,P,P
+"(2) Residential Support",,,,,,,
+"Residential Care Facility",,—,—,MUP,P,P,P
+"Transitional and Supportive Housing",,—,—,—,CUP,CUP,P
+COMMERCIAL,,,,,,,
+"(3) Services",,,,,,,
+"Adult Care",,,,,,,
+"Small ≤6",,P,P,P,P,P,P
+"Large 7 ≥ and ≤20",,P,P,P,P,P,P
+"Commercial ≥21",,P,P,P,P,P,P
+"Alternative Financial Services",23-3D-1080,—,—,CUP,CUP,CUP,P
+"Animal Service/Boarding",,,,,,,
+Housepets,,MUP,P,P,P,P,P
+"Livestock; Outdoor",,—,—,—,—,—,P
+"Business and Financial/Professional Services",,CUP,CUP,CUP,P,P,P
+"Commercial Blood Plasma Center",23-3D-1110,—,—,—,—,—,P/CUP
+"Commercial Services and Repair",,,,,,,
+"No Outside Storage",,CUP,CUP,CUP,CUP,CUP,P
+"With Incidental Outside Storage",,—,—,—,—,CUP,P
+Childcare,,,,,,,
+"Small ≤12",,P,P,P,P,P,P
+"Large 13 ≥ and ≤24",,P,P,P,P,P,P
+"Commercial ≥25",,P,P,P,P,P,P
+"Drive Through, Retail, or Service Facility",23-3D-1170,—,CUP,CUP,CUP,CUP,P
+"Funeral/ Mortuary Home",,—,—,—,P,—,P
+Hotel/Motel,,—,—,CUP,CUP,P,P
+"Medical Services",,MUP,P,P,P,P,P
+"Pawn Shop",,—,—,—,—,CUP,P
+"Personal Services",,,,,,,
+Non-restricted,,P,P,P,P,P,P
+Restricted,,—,—,—,—,MUP,P
+"Personal Storage",,—,—,—,—,—,P
+"(4) Office",,,,,,,
+"Office, General (non-medical)",,P,P,P,P,P,P
+"(5) Automobile Related",,,,,,,
+"Automobile Sales, Rental, and Storage",,—,—,—,—,CUP,P
+"Automobile Repair —",,,—,—,—,CUP,P
+"Commercial Vehicle Storage and Dispatch",,—,—,—,—,CUP,P
+"Gas Station",23-3D-1190,—,—,—,—,CUP,P
+"Heavy Equipment Sales",,,,,,,
+"Sales, Rental, and Storage",,—,—,—,—,—,P
+Repair,,—,—,—,—,—,P
+"Parking Facility",,—,—,—,CUP,CUP,P
+"Recreational and Sports Vehicle Sales, Rental, and Storage",,—,—,—,—,—,P
+"(6) Retail",,,,,,,
+"Alcohol Sales",23-3D-1070,—,CUP,—,—,MUP,P
+"Commercial Food Preparation",,—,—,P,P,P,P
+"Food Sales",,P,P,P,P,P,P
+"General Retail",,,,,,,
+"≤ 100,000 sq ft",,P,P,P,P,P,P
+"> 100,000 sf",,—,—,—,—,CUP,P
+"w/ Outside Storage",23-3D-1200,—,—,—,—,CUP,P
+"Mobile Retail Sales",23-3D-1260,—,—,—,P,P,P
+"(7) Restaurant and Bars",,,,,,,
+Bar/Nightclub,,,,,,,
+Indoor,,—,MUP,—,CUP,MUP,MUP
+"Outdoor; Late Night",,—,—,—,—,CUP,CUP
+Micro-Brewery/Micro-Distillery/,,—,MUP,—,P,P,P
+Winery,,,,,,,
+"Mobile Food Sales 23-3D-1240",,—,—,P,P,P,P
+Restaurant,,,,,,,
+"w/o Alcohol Sales",,P,P,P,P,P,P
+"w/ Alcohol Sales",23-3D-1320,—,MUP,—,P,P,P
+Drive-Through,23-3D-1170,—,CUP,CUP,CUP,CUP,P
+"Late Night Operation",23-3D-1320,—,CUP,—,—,CUP,P
+"(8) Entertainment and Recreation",,,,,,,
+"Adult Entertainment",23-3D-1060,—,—,—,—,—,P/CUP
+"Recreational Vehicle Park",23-3D-1290,—,—,—,—,—,P
+"Performance Venue",,,,,,,
+Indoor,,,,,,,
+"≤5,000 sf",23-3D-1270,CUP,MUP,MUP,MUP,P,P
+"> 5,000 sf",23-3D-1270,—,—,CUP,MUP,P,P
+Outdoor,,,,,,,
+"≤ 5,000 sf",23-3D-1270,—,MUP,MUP,MUP,MUP,MUP
+"> 5,000 sf",23-3D-1270,—,—,CUP,MUP,CUP,MUP
+Recreation,,,,,,,
+"Indoor ≤ 5,000 sf",23-3D-1280,MUP,MUP,P,P,P,P
+"Indoor > 5,000 sf",23-3D-1280,CUP,CUP,P,P,P,P
+"Outdoor, Formal",23-3D-1280,CUP,CUP,CUP,CUP,P,P
+"Outdoor, Informal",23-3D-1280,P,P,P,P,P,P
+"Outdoor, Natural",23-3D-1280,P,P,P,P,P,P
+"Spectator Sport or Entertainment",,—,—,CUP,CUP,CUP,CUP
+"Studio: art, dance, martial arts, music",23-3D-1370,P,P,P,P,P,P
+INDUSTRIAL,,,,,,,
+"(9) Industrial",,,,,,,
+"Manufacturing and Storage",,,,,,,
+"Limited Machinery",23-3D-1230,—,—,—,—,MUP,P
+"(10) Innovation and Technology",,,,,,,
+"Research and Development",,,,,,,
+"Non-Hazardous Materials",23-3D-1310,—,—,—,—,MUP,P
+AGRICULTURAL,,,,,,,
+"(11) Agriculture",,,,,,,
+"Community Agriculture",23-3D-1130,P,P,P,P,P,P
+CIVIC,,,,,,,
+"(12) Civic and Public Assembly",,,,,,,
+Government,,—,—,MUP,MUP,P,P
+Hospital,,—,—,CUP,P,P,P
+"Library, Museum, or Public Art",,CUP,MUP,P,P,P,P
+Gallery,,,,,,,
+"Meeting Facility (public or private)",,CUP,CUP,P,P,P,P
+"Public Safety Facility",,CUP,CUP,P,P,P,P
+"Religious Assembly Facility",,P,P,P,P,P,P
+School,,,,,,,
+"Business, or Trade",23-3D-1330,CUP,CUP,MUP,P,P,P
+"College or University",23-3D-1330,CUP,CUP,MUP,P,P,P
+"Private Primary",23-3D-1330,CUP,CUP,MUP,P,P,P
+"Private Secondary",23-3D-1330,CUP,CUP,MUP,P,P,P
+"Public Primary",23-3D-1330,P,P,P,P,P,P
+"Public Secondary",23-3D-1330,P,P,P,P,P,P
+OTHER,,,,,,,
+"(13) Other",,,,,,,
+"Accessory Uses",23-3D-1050,P,P,P,P,P,P
+Communications,23-3D-1120,P,P,P,P,P,P
+Utilities,,,,,,,
+Local,,P,P,P,P,P,P
+Telecommunications,23-3D-1380,P,P,P,P,P,P
+"Transit Terminal",,—,—,—,—,CUP,CUP
+"Special Uses",23-3D-1360,CUP,CUP,CUP,CUP,CUP,—

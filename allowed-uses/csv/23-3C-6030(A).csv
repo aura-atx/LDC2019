@@ -1,0 +1,112 @@
+"Use Type","Specific to Use Requirements",MS2A,MS2B,MS3
+RESIDENTIAL,,,,
+"(1) Residential",,,,
+"Accessory Dwelling Unit - Residential",23-3D-1030,P,P,P
+"Accessory Dwelling Unit - Non-Residential",23-3D-1040,P,P,P
+"Bed and Breakfast",23-3D-1100,P,P,P
+"Group Residential",,P,P,P
+"Home Occupations",23-3D-1210,P,P,P
+Live/Work,23-3D-1220,P,P,P
+Multi-Family,,P,P,P
+"Senior/Retirement Housing",23-3D-1340,P,P,P
+"Short-term Rental",,,,
+"Types 1",23-3D-1350,P,P,P
+"Types 3",23-3D-1350,P,P,P
+Townhouse,23-3D-1390,P,P,P
+"(2) Residential Support",,,,
+"No Residential Support uses allowed",,,,
+Requirements,,,,
+COMMERCIAL,,,,
+"(3) Services",,,,
+"Adult Care",,,,
+"Small ≤6",,P,P,P
+"Large 7 ≥ and ≤20",,P,P,P
+"Commercial ≥21",,P,P,P
+"Alternative Financial Services",23-3D-1080,—,—,CUP
+"Animal Service/Boarding",,,,
+Housepets,,P,P,P
+"Business and Financial/Professional Services",,P,P,P
+"Commercial Services and Repair",,,,
+"No Outside Storage",,CUP,CUP,CUP
+"w/ Incidental Outside Storage",,CUP,CUP,CUP
+Childcare,,,,
+"Small ≤12",,P,P,P
+"Large 13 ≥ and ≤24",,P,P,P
+"Commercial ≥25",,P,P,P
+Hotel/Motel,,P,P,P
+"Medical Services",,P,P,P
+"Personal Services",,,,
+Non-restricted,,P,P,P
+Restricted,,—,MUP,MUP
+"(4) Office",,,,
+"Office, General (non-medical)",,P,P,P
+"(5) Automobile Related",,,,
+"Parking Facility",,—,—,CUP
+Requirements,,,,
+"(6) Retail",,,,
+"Alcohol Sales",23-3D-1070,—,CUP,MUP
+"Food Sales",,P,P,P
+"General Retail",,,,
+"≤ 100,000 sf",,P,P,P
+">100,000 sf",,—,—,CUP
+"w/ Outside Storage",23-3D-1200,—,—,CUP
+"Mobile Retail",,P,P,P
+"(7) Restaurant and Bar",,,,
+Bar/Nightclub,,,,
+Indoor,,—,MUP,P
+"Outdoor; Late Night",,—,CUP,MUP
+Micro-Brewery/Micro-Distillery/Winery,,—,P,P
+"Mobile Food Sales",23-3D-1250,P,P,P
+Restaurant,,,,
+"w/o Alcohol Sales",,P,P,P
+"w/ Alcohol Sales",23-3D-1070,—,MUP,P
+"Late Night Operation",23-3D-1070,CUP,CUP,MUP
+"(8) Entertainment and Recreation",,,,
+"Performance Venue",,,,
+Indoor,,,,
+"≤ 5,000 sf",23-3D-1270,MUP,MUP,P
+"> 5,000 sf",23-3D-1270,—,CUP,CUP
+Outdoor,,,,
+"≤ 5,000 sf",23-3D-1270,—,CUP,CUP
+"> 5,000 sf",23-3D-1270,—,CUP,CUP
+Requirements,,,,
+"(8) Entertainment and Recreation (cont.)",,,,
+Recreation,,,,
+"Indoor ≤ 5,000 sf",23-3D-1280,P,P,P
+"Indoor > 5,000 sf",23-3D-1280,P,P,P
+"Outdoor, Formal",23-3D-1280,MUP,MUP,MUP
+"Outdoor, Informal",23-3D-1280,P,P,—
+"Outdoor, Natural",23-3D-1280,P,P,P
+"Studio: art, dance, martial arts, music",23-3D-1370,P,P,P
+INDUSTRIAL,,,,
+"(9) Industrial",,,,
+"No Industrial uses allowed",,,,
+"(10) Innovation and Technology",,,,
+"No Innovation and Technology uses allowed",,,,
+AGRICULTURAL,,,,
+"(11) Agriculture",,,,
+"Community Agriculture",23-3D-1130,MUP,MUP,MUP
+CIVIC,,,,
+"(12) Civic and Public Assembly",,,,
+Government,,MUP,MUP,MUP
+Hospital,,—,—,CUP
+"Library, Museum, or Public Art Gallery",,P,P,P
+"Meeting Facility (public or private)",,P,P,P
+"Religious Assembly Facility",,P,P,P
+School,,,,
+"Business, or Trade",23-3D-1330,P,P,P
+"College or University",23-3D-1330,P,P,P
+"Private Primary",23-3D-1330,P,P,P
+"Private Secondary",23-3D-1330,P,P,P
+"Public Primary",23-3D-1330,P,P,P
+"Public Secondary",23-3D-1330,P,P,P
+Requirements,,,,
+OTHER,,,,
+"(13) Other",,,,
+"Accessory Uses",23-3D-1050,P,P,P
+Communications,23-3D-1120,P,P,P
+Utilities,,,,
+Local,,P,P,P
+Telecommunications,23-3D-1380,P,P,P
+"Transit Terminal",,—,—,CUP
+"Special Uses",23-3D-1360,CUP,CUP,—
