@@ -1,0 +1,78 @@
+"Use Type","Specific to Use Requirements",LA,RR,R1,R2A,R2B,R2C,R3,R4
+RESIDENTIAL,,,,,,,,,
+"(1) Residential",,,,,,,,,
+Accessory Dwelling Unit,23-3D-1030,P,P,P1,P,P,P,P,P
+Residential,,,,,,,,
+Bed and Breakfast,23-3D-1100,CUP,CUP,CUP,CUP,CUP,CUP,CUP,P
+Co-housing,,—,—,—,—,—,—,P,P
+Cottage Court,23-3D-1160,—,—,—,—,—,—,P,P
+Duplex,23-3D-1180,P,P,—,P,P,P,P,P
+Group Residential,,—,—,—,—,—,—,P,P
+Home Occupations,23-3D-1210,P,P,P,P,P,P,P,P
+Multi-family,,—,—,—,—,—,—,P,P
+Senior/Retirement Housing,23-3D-1340,P,P,P,P,P,P,P,P
+Single-Family,,P,P,P,P,P,P,P,—
+Single-Family Attached,,—,—,—,P,P,—,P,—
+Short-term Rental,,,,,,,,,
+Type 1,23-3D-1350,P,P,P,P,P,P,P,P
+Type 3,23-3D-1350,—,—,—,—,—,—,—,P
+Townhouse,23-3D-1390,—,—,—,—,—,—,P,P
+"(2) Residential Support",,,,,,,,,
+No Residential Support uses allowed,,,,,,,,,
+COMMERCIAL,,,,,,,,,
+"(3) Services",,,,,,,,,
+Adult Care,,,,,,,,,
+Small ≤6,,P,P,P,P,P,P,P,P
+Large 7 ≥ and ≤20,,CUP,CUP,CUP,CUP,CUP,CUP,CUP,CUP
+Commercial ≥21,,CUP,CUP,CUP,CUP,CUP,CUP,CUP,CUP
+Childcare,,,,,,,,,
+Small ≤12,,P,P,P,P,P,P,P,P
+Large 13 ≥ and ≤24,,CUP,CUP,CUP,CUP,CUP,CUP,CUP,CUP
+Commercial ≥25,,CUP,CUP,CUP,CUP,CUP,CUP,CUP,CUP
+"(4) Office",,,,,,,,
+No Office uses allowed,,,,,,,,
+"(5) Automobile Related",,,,,,,,
+No Automobile Related uses allowed,,,,,,,,
+"(6) Retail",,,,,,,,
+No Retail uses allowed,,,,,,,,
+"(7) Restaurant and Bar",,,,,,,,
+No Restaurant and Bar uses allowed,,,,,,,,
+"(8) Entertainment and",,,,,,,,
+Recreation,,,,,,,,
+Recreation,,,,,,,,
+"Indoor ≤ 5,000 sf",23-3D-1280,—,CUP,CUP,CUP,CUP,CUP,CUP,MUP
+"Indoor > 5,000 sf",23-3D-1280,—,CUP,CUP,CUP,CUP,CUP,CUP,CUP
+"Outdoor, Formal",23-3D-1280,P,CUP,CUP,CUP,CUP,CUP,CUP,MUP
+"Outdoor, Informal",23-3D-1280,P,P,P,P,P,P,P,P
+"Outdoor, Natural",23-3D-1280,P,P,P,P,P,P,P,P
+INDUSTRIAL,,,,,,,,
+"(9) Industrial",,,,,,,,
+No Industrial uses allowed,,,,,,,,
+"(10) Innovation and Technology",,,,,,,,
+AGRICULTURAL,,,,,,,,
+"(11) Agriculture",,,,,,,,
+Community Agriculture,23-3D-1130,P,P,P,P,P,P,P,P
+Stables,,—,CUP,—,—,—,—,—,—
+CIVIC,,,,,,,,
+"(5) Civic and Public Assembly",,,,,,,,
+"Library, Museum, or Public",,CUP,CUP,CUP,CUP,CUP,CUP,CUP,CUP
+Art Gallery,,,,,,,,
+Meeting Facility (public or,,CUP,CUP,CUP,CUP,CUP,CUP,CUP,CUP
+private),,,,,,,,
+Public Safety Facility,,CUP,CUP,CUP,CUP,CUP,CUP,CUP,CUP
+Religious Assembly Facility,,P,P,P,P,P,P,P,P
+School,,,,,,,,
+Business or Trade,23-3D-1330,CUP,CUP,CUP,CUP,CUP,CUP,CUP,CUP
+College or University,23-3D-1330,CUP,CUP,CUP,CUP,CUP,CUP,CUP,CUP
+Private Primary,23-3D-1330,CUP,CUP,CUP,CUP,CUP,CUP,CUP,CUP
+Private Secondary,23-3D-1330,CUP,CUP,CUP,CUP,CUP,CUP,CUP,CUP
+Public Primary,23-3D-1330,P,P,P,P,P,P,P,P
+Public Secondary,23-3D-1330,P,P,P,P,P,P,P,P
+OTHER,,,,,,,,
+"(13) Other",,,,,,,,
+Accessory Uses,23-3D-1050,P,P,P,P,P,P,P,P
+Communications,23-3D-1120,P,P,P,P,P,P,P,P
+Utilities,,,,,,,,
+Local,,P,P,P,P,P,P,P,P
+Telecommunications,23-3D-1380,P/CUP,P,P,P,P,P,P,P
+Special Uses,23-3D-1360,CUP,CUP,CUP,CUP,CUP,CUP,CUP,CUP
