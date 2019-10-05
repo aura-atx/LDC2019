@@ -33,6 +33,7 @@ def main():
         joined = merge(joined, right)
 
     # Clean up the final dataframe
+    joined.drop_duplicates(["Use Type"], inplace=True)
     joined.set_index("Use Type", inplace=True)
     joined.sort_values("Use Type", inplace=True)
 
